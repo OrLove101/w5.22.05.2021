@@ -1,7 +1,6 @@
 import pytest
 
-from point.point import Point
-
+from src.point.point import Point
 
 POINT_DEFAULT = 1.0
 POINT_NEW_VALUE = 10.0
